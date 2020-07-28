@@ -18,6 +18,10 @@ module.exports = getProduct;
 
 // Why is the second res.status on line 8 not in an if statement?
 
-//Are semi-colons important in node?
+//Are semi-colons important in node? No.
 
 //What exactly does the if(!item) mean? If the id is not an item in the list....?
+
+//We'll use ! a lot when checking if ssomething exists. Is it a truthy or falsy value? 
+
+//Find....
